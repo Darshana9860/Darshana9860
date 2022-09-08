@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development.  
 - 🌱 I’m an aspiring Full stack web developer. .
 - :computer: I am open to work (part time/full time).
-- I am skilled in C++ , HTML , CSS, Tailwind-CSS , Javascript.
+- :books: I am skilled in C++ , HTML , CSS, Tailwind-CSS , Javascript.
 
 <!---
 Darshana9860/Darshana9860 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
