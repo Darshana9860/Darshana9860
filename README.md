@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darshana9860
 - 👀 I’m interested in Software development.  
-- 🌱 I’m an aspiringlearning Full stack web developer. .
-- I am open to work (part time/full time).
+- 🌱 I’m an aspiring Full stack web developer. .
+- :computer: I am open to work (part time/full time).
 - I am skilled in C++ , HTML , CSS, Tailwind-CSS , Javascript.
 
 <!---
