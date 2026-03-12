@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @Darshana9860
-- 👀 I’m interested in Software development.  
+👋 Hi, I’m Darshana .
 
-- :books: I am skilled in C++ , HTML , CSS, Tailwind-CSS , Javascript.
+💻 Associate Developer with 3+ years of experience in automation and enterprise workflow troubleshooting.
+
+👀 Interested in Data Engineering, Data Analytics, and building scalable data pipelines.
+
+🛠️ Skills: Python, SQL, JavaScript, C++, HTML, CSS, Tailwind CSS
+
+📊 Currently building projects around ETL pipelines, data processing, and analytics dashboards.
 
 <!---
 Darshana9860/Darshana9860 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
